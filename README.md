@@ -13,12 +13,13 @@ The purpose of this analysis is to analyze AutosRUs’ newest prototype, the Mec
 Below is a linear model that predicts the MPG of the prototypes using the data set provided from MechaCar_mpg file. 
 
 <img width="299" alt="MechaCar" src="https://user-images.githubusercontent.com/95591222/161445548-e21ba30e-7e0b-4252-8d8b-e0d1fe69b8eb.png">
+<img width="256" alt="Summary " src="https://user-images.githubusercontent.com/95591222/161445577-99d06206-e8fc-4f61-aceb-36c28c26b466.png">
 
 According to our results, vehicle length and ground clearence have a significant impact on the prototype. The linear regression model resulted in p-values of 2.6x10-12 and 5.21x10-8. The intercept was also statistically significant, indicating that there are likely other factors, not included in our dataset, that have a strong impact on the MPG. This model predicts an accuracy of 71% according to Multiple R-Squared. This model has room for improvement but is still predicting a large portion of variablity. 
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
 
-<img width="256" alt="Summary " src="https://user-images.githubusercontent.com/95591222/161445577-99d06206-e8fc-4f61-aceb-36c28c26b466.png">
+
 
 
 
