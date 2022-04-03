@@ -6,7 +6,7 @@ The purpose of this analysis is to analyze AutosRUs’ newest prototype, the Mec
 * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings
+* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
 ## Deliverable 1: Linear Regression to Predict MPG
 
@@ -19,8 +19,10 @@ According to our results, vehicle length and ground clearence have a significant
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
 
+<img width="178" alt="Total_Summary" src="https://user-images.githubusercontent.com/95591222/161452316-e1a96d4b-e4db-4b1b-a515-47acac18da93.png">
+<img width="268" alt="Lot_Summary" src="https://user-images.githubusercontent.com/95591222/161452318-42e95a68-71e4-400e-a127-3dc3c5f2845b.png">
 
-
+An RScript is written to create a total summary dataframe that has the mean, median, variance, and standard deviation for each lot. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Lot 1 and Lot 2 are both within design specifications they have similar mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs because it is over 100 poinds per square inch.
 
 
 ## Deliverable 3: 3 T-Test on Suspension Coils
@@ -34,8 +36,6 @@ According to our results, vehicle length and ground clearence have a significant
 * Sample 1 shows it's not statistically different from the population mean, and the p-value is not low enough (1) for us to reject the NULL hypothesis.
 * Sample 2 shows it's not statistically different from the population mean, and the p-value is not low enough (0.6072) for us to reject the NULL hypothesis.
 * Sample 3 shows it's slightly statistically different from the population mean, and the p-value is just low enough (0.04168) for us to REJECT the NULL hypothesis. 
-
-
 
 
 ## Summary
