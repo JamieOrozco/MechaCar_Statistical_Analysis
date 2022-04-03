@@ -15,14 +15,14 @@ Below is a linear model that predicts the MPG of the prototypes using the data s
 <img width="299" alt="MechaCar" src="https://user-images.githubusercontent.com/95591222/161445548-e21ba30e-7e0b-4252-8d8b-e0d1fe69b8eb.png">
 <img width="256" alt="Summary " src="https://user-images.githubusercontent.com/95591222/161445577-99d06206-e8fc-4f61-aceb-36c28c26b466.png">
 
-According to our results, vehicle length and ground clearence have a significant impact on the prototype. The linear regression model resulted in p-values of 2.6x10-12 and 5.21x10-8. The intercept was also statistically significant, indicating that there are likely other factors, not included in our dataset, that have a strong impact on the MPG. This model predicts an accuracy of 71% according to Multiple R-Squared. This model has room for improvement but is still predicting a large portion of variablity. 
+According to our results, vehicle length and ground clearance have a significant impact on the prototype. The linear regression model resulted in p-values of 2.6x10-12 and 5.21x10-8. The intercept was also statistically significant, indicating that there are likely other factors, not included in our dataset, that have a strong impact on the MPG. This model predicts an accuracy of 71% according to Multiple R-Squared. This model has room for improvement but is still predicting a large portion of variability. 
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
 
 <img width="178" alt="Total_Summary" src="https://user-images.githubusercontent.com/95591222/161452316-e1a96d4b-e4db-4b1b-a515-47acac18da93.png">
 <img width="268" alt="Lot_Summary" src="https://user-images.githubusercontent.com/95591222/161452318-42e95a68-71e4-400e-a127-3dc3c5f2845b.png">
 
-An RScript is written to create a total summary dataframe that has the mean, median, variance, and standard deviation for each lot. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Lot 1 and Lot 2 are both within design specifications they have similar mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs because it is over 100 poinds per square inch.
+An RScript is written to create a total summary data frame that has the mean, median, variance, and standard deviation for each lot. The design specifications for the suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Lot 1 and Lot 2 are both within design specifications they have similar mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs because it is over 100 pounds per square inch.
 
 
 ## Deliverable 3: 3 T-Test on Suspension Coils
@@ -40,7 +40,7 @@ An RScript is written to create a total summary dataframe that has the mean, med
 
 ## Deliverable 4: Study Design
 
-An analysis should be ran about the horsepower the new model has. We can creat a NULL hypothesis that the prototype it is not different from the competition and the alternative would be that it is. We need to collect from different types of competitor vehicles and then run a t-test.. Our t-test would compare the population of all types of competitor horsepower.
+An analysis should be run about the horsepower the new model has. We can create a NULL hypothesis that the prototype it is not different from the competition and the alternative would be that it is. We need to collect from different types of competitor vehicles and then run a t-test.. Our t-test would compare the population of all types of competitor horsepower.
 
 
 
