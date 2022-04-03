@@ -38,5 +38,9 @@ An RScript is written to create a total summary dataframe that has the mean, med
 * Sample 3 shows it's slightly statistically different from the population mean, and the p-value is just low enough (0.04168) for us to REJECT the NULL hypothesis. 
 
 
-## Summary
+## Deliverable 4: Study Design
+
+An analysis should be ran about the horsepower the new model has. We can creat a NULL hypothesis that the prototype it is not different from the competition and the alternative would be that it is. We need to collect from different types of competitor vehicles and then run a t-test.. Our t-test would compare the population of all types of competitor horsepower.
+
+
 
