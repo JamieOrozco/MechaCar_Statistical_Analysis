@@ -10,7 +10,7 @@ The purpose of this analysis is to analyze AutosRUs’ newest prototype, the Mec
 
 ## Deliverable 1: Linear Regression to Predict MPG
 
-### Below is a linear model that predicts the MPG of the prototypes using the data set provided from MechaCar_mpg file. 
+Below is a linear model that predicts the MPG of the prototypes using the data set provided from MechaCar_mpg file. 
 
 <img width="299" alt="MechaCar" src="https://user-images.githubusercontent.com/95591222/161445548-e21ba30e-7e0b-4252-8d8b-e0d1fe69b8eb.png">
 
